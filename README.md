@@ -11,4 +11,4 @@ to execute the test you must have to follow the nwxt instructions:
 4. Finally ecexute the comand ng s -o, to load the view.
 
 
-after that the proyect must execute whit out problem
+after that the proyect must execute whit out problem.
