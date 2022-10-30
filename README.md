@@ -1,7 +1,7 @@
 # TestThales
 
 
-the test solution has one folder callin Test-fron, inside this folder exist two more folders, one of them contains the front solution, and the other the back.
+the test solution has one folder calling Test-fron, inside this folder exist two more folders, one of them contains the front solution, and the other the back.
 
 to execute the test you must have to follow the nwxt instructions:
 
