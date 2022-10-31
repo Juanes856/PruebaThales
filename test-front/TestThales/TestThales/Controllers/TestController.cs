@@ -34,7 +34,7 @@ namespace TestThales
                         {
                             ParametersModel parameter = new ParametersModel()
                             {
-                                Employee_salary = item.employee_salary
+                                //Employee_salary = item.employee_salary
                             };
 
                             parameter = (ParametersModel)GetAnualSalry(parameter);
